@@ -1,6 +1,5 @@
 package isaccanedo.springframework.commands;
 
-
 import java.math.BigDecimal;
 
 public class ProductForm {
